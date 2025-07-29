@@ -1,7 +1,7 @@
 # Glass UI Demo
 
 Minimal, stylish React glassmorphic card with click interactivity.  
-Hosted via GitHub Pages: [Live Demo](https://SamNm89.github.io/glass-ui-demo)
+Hosted via GitHub Pages: [Live Demo](https://samnm89.github.io/glass-demo/)
 
 ## Features
 
@@ -30,4 +30,4 @@ npm run dev
    ```sh
    npm run deploy
    ```
-6. Visit: [https://SamNm89.github.io/glass-ui-demo](https://SamNm89.github.io/glass-ui-demo)
+6. Visit: [https://SamNm89.github.io/glass-ui-demo](https://samnm89.github.io/glass-demo/)
